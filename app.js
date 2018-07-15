@@ -1,6 +1,7 @@
 var createError = require('http-errors');
 var express = require('express');
 var logger = require('morgan');
+const cors = require('cors');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
@@ -9,6 +10,15 @@ var app = express();
 
 
 app.use(logger('dev'));
+
+// Set cross-domain communication
+app.use(
+  cors({
+    origin: CLIENT_ORIGIN
+  })
+);
+
+// Parse request body
 app.use(express.json());
 
 
