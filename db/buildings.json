@@ -1,0 +1,52 @@
+[
+  {
+    "img": "https://cdn5.kakao.im/wp-content/uploads/2018/07/1-234.jpg",
+    "name": "Burj Khalifa",
+    "location": "Dubai, UAE"
+  },
+  {
+    "img": "https://cdn5.kakao.im/wp-content/uploads/2018/07/2-134.jpg",
+    "name": "Taj Mahal",
+    "location": "Agra, India"
+  },
+  {
+    "img": "https://cdn2.kakao.im/wp-content/uploads/2018/07/3-119.jpg",
+    "name": "Savior on Blood",
+    "location": "St. Petersburg, Russia"
+  },
+  {
+    "img": "https://cdn.kakao.im/wp-content/uploads/2018/07/4-111.jpg",
+    "name": "Shwedagon Pagoda",
+    "location": "Yangon, Mianmar"
+  },
+  {
+    "img": "https://cdn4.kakao.im/wp-content/uploads/2018/07/5-103.jpg",
+    "name": "Sagrada Familia",
+    "location": "Barcelona, Spain"
+  },
+  {
+    "img": "https://cdn.kakao.im/wp-content/uploads/2018/07/8-73.jpg",
+    "name": "Ferrari World",
+    "location": "Abu Dhabi, UAE"
+  },
+  {
+    "img": "https://cdn3.kakao.im/wp-content/uploads/2018/07/9-63.jpg",
+    "name": "Lotus Temple",
+    "location": "Delhi, India"
+  },
+  {
+    "img": "https://cdn4.kakao.im/wp-content/uploads/2018/07/10-58.jpg",
+    "name": "Wat Rong Khun",
+    "location": "Chiang Rai, Thailand"
+  },
+  {
+    "img": "https://cdn3.kakao.im/wp-content/uploads/2018/07/7-82.jpg",
+    "name": "Taktsang Monastery",
+    "location": "Taktsang trail, Bhutan"
+  },
+  {
+    "img": "https://cdn2.kakao.im/wp-content/uploads/2018/07/6-96.jpg",
+    "name": "Harmandir Sahib",
+    "location": " Punjab, India"
+  }
+]
